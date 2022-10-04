@@ -14,7 +14,7 @@ li {
     background-color: #4a4a4a;
     background-image: url(img/done1.png);
     background-repeat: no-repeat;
-    background-position: 40px center;
+    background-position: 20px center;
     background-size: 50px;
     padding: 60px 60px 60px 100px;
 }
@@ -26,7 +26,7 @@ li.concluido {
     background-color: #27ae60;
     background-image: url(img/done.png);
     background-repeat: no-repeat;
-    background-position: 40px center;
+    background-position: 20px center;
     background-size: 50px;
 }
 
