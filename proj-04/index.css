@@ -39,3 +39,6 @@ tbody td:first-child, thead th:first-child {
     text-align: center;
     width: 80px;
 }
+tbody tr:hover {
+    background-color: #eeeeee;
+}
