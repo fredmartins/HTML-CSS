@@ -29,3 +29,8 @@ table thead th {
     font-size: 14px;
     font-weight:500;
 }
+
+table th, td {
+    border-bottom: 1px solid rgba(0, 255, 0, 0.2);
+    padding: 20px 0px 20px 0px;
+}
