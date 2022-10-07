@@ -34,3 +34,8 @@ table th, td {
     border-bottom: 1px solid rgba(0, 255, 0, 0.2);
     padding: 20px 0px 20px 0px;
 }
+
+tbody td:first-child, thead th:first-child {
+    text-align: center;
+    width: 80px;
+}
